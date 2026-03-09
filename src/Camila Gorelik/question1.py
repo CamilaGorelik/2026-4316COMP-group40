@@ -1,6 +1,6 @@
 """
-Does exercise or sleep have a stronger correlation with productivity levels among students?
+Is sleep duration or exercise time more strongly correlated with student productivity, and how do these factors interact with each other?
 
-How do study hours relate to the final grade of students, and is there an optimal number of study hours for maximizing performance?
+What is the relationship between study hours per day and final grade, and does productivity plateau after a certain number of study hours?
 
 """
